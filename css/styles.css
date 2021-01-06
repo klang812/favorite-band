@@ -1,0 +1,20 @@
+img {
+  float:right
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: brown;
+}
+
+body {
+  color:red;
+  background-color: orange;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}

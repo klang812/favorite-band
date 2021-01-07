@@ -1,20 +1,30 @@
 .image1 {
   float:right;
-  
+  padding: 20px;
+  position: relative;
 }
 
 .image2 {
   float:right;
+  padding: 20px;
+  
 }
 
 .image3 {
   float:right;
+  padding: 40px;
+  margin-top: 200px;
+  position: relative;
 }
 
 .sidebar {
-  width: 30%;
+  width: 50%;
   float: left;
   background-color: brown;
+  border-width: 40%;
+  border: black;
+  padding: 2%;
+  margin: 2%;
 }
 
 body {

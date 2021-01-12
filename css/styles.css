@@ -1,17 +1,33 @@
+.dark-background {
+  background-color: black;
+}
+
+.light-background {
+  background-color: rgb(204, 181, 185);
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .image1 {
-  float:right;
+  float: right;
   padding: 20px;
   position: relative;
 }
 
 .image2 {
-  float:right;
+  float: right;
   padding: 20px;
-  
 }
 
 .image3 {
-  float:right;
+  float: right;
   padding: 40px;
   margin-top: 200px;
   position: relative;
@@ -20,20 +36,12 @@
 .sidebar {
   width: 50%;
   float: left;
-  background-color: brown;
   border-width: 40%;
   border: black;
   padding: 2%;
   margin: 2%;
 }
 
-body {
-  color:red;
-  background-color: orange;
-  text-align: center;
-}
-
-h1 {
-  font-weight: 900;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+.btn {
+  float: right;
 }
